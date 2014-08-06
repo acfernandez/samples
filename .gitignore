@@ -3,8 +3,12 @@
 
 # sbt specific
 .cache/
+.cache
+.project
+.classpath
 .history/
 .lib/
+.settings/
 dist/*
 target/
 lib_managed/
