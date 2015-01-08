@@ -1,4 +1,4 @@
-package map
+package ar.acf.map
 
 
 object FunWithMaps {
