@@ -1,4 +1,4 @@
-samples
-=======
+scala samples
+=============
 
 Several samples for help me
